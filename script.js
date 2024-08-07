@@ -1,6 +1,6 @@
 import {apiKey} from "./modules/config.js";
 document.addEventListener('DOMContentLoaded', () => {
-   // const apiKey = 'acd42ea8';
+  
 
     const searchBtn = document.querySelector('.searchbtn');
     const input = document.querySelector('.input');
